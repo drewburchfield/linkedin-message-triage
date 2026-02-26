@@ -7,6 +7,7 @@
     "description": "Systematic LinkedIn inbox review - filter solicitations, identify messages needing responses, draft replies",
     "version": "1.0.7",
     "author": {"name": "Drew Burchfield", "url": "https://github.com/drewburchfield"},
-    "category": "productivity"
+    "category": "productivity",
+    "homepage": "https://github.com/drewburchfield/linkedin-message-triage"
   }]
 }
